@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.leaflet-container {
+    height: 100vh;
+}
+
+
+.map-data{
+
+}
